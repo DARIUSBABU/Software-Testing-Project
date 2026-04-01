@@ -22,4 +22,5 @@ This project contains manual testing documentation for a sample application.
 - Smoke Testing
 
 5. Author
+   
 Darius Babu
