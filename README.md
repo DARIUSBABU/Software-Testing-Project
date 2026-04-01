@@ -1,26 +1,32 @@
+Software Testing Project – Demoblaze
+This repository contains all documents and artifacts related to the software testing project performed on the demo website: https://www.demoblaze.com
 
-1.Project Overview
-This project contains manual testing documentation for a sample application.
+Repository Contents
+Test Plan.docx
+Test planning document including scope, strategy, environment, and risks.
 
-2. Contents
-- Test Plan
-- Test Cases
-- Bug Reports
-- Regression Testing Updates
-- Test Metrics
-- Screenshots
+Test Cases.xlsx
+Designed test cases covering functional, UI/UX, and non-functional scenarios.
 
-3. Tools Used
-- Excel
-- Word
-- Eclipse
-- Manual Testing Techniques
+Bug Report.xlsx
+Defects logged based on failed test cases with severity and priority.
 
-4. Testing Types Covered
-- Functional Testing
-- Regression Testing
-- Smoke Testing
+Updated Test Cases After Regression.xlsx
+Failed test cases re-executed after fixes with updated actual results and status.
 
-5. Author
-   
+Test Report.docx
+Test metrics, execution summary, defect analysis, and final test closure report.
+
+Automation Scripts/
+Basic Selenium automation scripts for selected scenarios.
+
+Screenshots/
+Test execution evidence and recordings.
+
+LICENSE
+
+
+Author
 Darius Babu
+
+Project Repository
