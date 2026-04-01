@@ -24,9 +24,11 @@ Basic Selenium automation scripts for selected scenarios.
 Test execution evidence and recordings.
 
 ##LICENSE
+This project is licensed under the MIT License.
 
 
 ##Author
 Darius Babu
 
 ##Project Repository
+
