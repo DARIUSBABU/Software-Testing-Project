@@ -28,7 +28,9 @@ This project is licensed under the MIT License.
 
 
 ##Author
-Darius Babu
+ Darius Babu
 
 ##Project Repository
+https://github.com/DARIUSBABU/Software-Testing-Project.git
+
 
